@@ -6,7 +6,7 @@ Projeto criado para experimentar o Service Discovery com o Consul
 
 -> Para iniciar o docker:
 
-docker-compose up -d
+`docker-compose up -d` 
 
 -> Para acessar o docker:
 
